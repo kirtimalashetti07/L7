@@ -4,6 +4,6 @@ int main(){
 	printf("enter the number:");
 	scanf("%d",&num);
 	if (num%2==0)
-		printf(" is even");
+		printf("  even");
         else
-		printf(" not even");
+		printf(" odd");
